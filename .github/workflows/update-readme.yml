@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update timestamp
+        run: |
+          sed -i "s/_Last updated.*/_Last updated: $(date)/" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "Henry"
+          git config user.email "ehinderohenry7@gmail.com"
+          git add README.md
+          git commit -m "chore: auto-update README" || echo "No changes"
+          git push
