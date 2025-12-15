@@ -11,9 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update timestamp
-        run: |
-          sed -i "s/_Last updated.*/_Last updated: $(date)/" README.md
+     - name: Update timestamp
+  run: |
+    if grep -q "_Last updated" README.md; then
+      sed -i "s/_Last updated.*/_Last updated: $(date)/" README.md
+    else
+      echo "" >> README.md
+      echo "_Last updated: $(date)_" >> README.md
+    fi
 
       - name: Commit changes
         run: |
