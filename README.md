@@ -5,7 +5,7 @@
 - 📫 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/henrymayokun/) | [Twitter](https://twitter.com/mayorRMD)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ⚡ Fun fact: I’m a huge fan of video games and enjoy playing them in my spare time
-- ## Henry 👋
+-  Henry 👋
 
 Software Engineer | Frontend • Cloud • Hardware Systems
 
