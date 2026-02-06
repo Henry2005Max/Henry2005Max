@@ -1,6 +1,9 @@
 # 💫 About Me:
 Computer Science student interested in building real-world applications <br>and exploring how software<br>connects with hardware.<br><br>I enjoy working on projects that sit at the intersection of apps, IoT, and robotics, and I’m always<br>curious about how systems work under the hood.<br>Enjoy playing Video games during my spare time
 
+**300 Days of Code** 
+**Current streak**: 2/300 🔥
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mayor_kun9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Henry Ehindero) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ehinderohenry7@gmail.com) 
