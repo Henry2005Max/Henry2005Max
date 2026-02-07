@@ -2,7 +2,15 @@
 Computer Science student interested in building real-world applications <br>and exploring how software<br>connects with hardware.<br><br>I enjoy working on projects that sit at the intersection of apps, IoT, and robotics, and I’m always<br>curious about how systems work under the hood.<br>Enjoy playing Video games during my spare time
 
 **300 Days of Code** 
-**Current streak**: 2/300 🔥
+
+
+**Current Progress:** Day 3/300 🔥  
+**Days Completed:** 2/300
+**Current Streak:** 2 days 🔥
+
+- ✅ Day 1: TypeScript CLI Calculator
+- ✅ Day 2: Password Generator
+- ⬜ Day 3: File Renamer
 
 
 ## 🌐 Socials:
