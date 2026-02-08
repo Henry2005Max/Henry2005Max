@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science student interested in building real-world applications <br>and exploring how software<br>connects with hardware.<br><br>I enjoy working on projects that sit at the intersection of apps, IoT, and robotics, and I’m always<br>curious about how systems work under the hood.<br>Enjoy playing Video games during my spare time
+Computer Science student interested in building real-world applications <br>and exploring how software<br>connects with hardware.<br><br>I enjoy working on projects that sit at the intersection of webs, apps, IoT, and robotics, and I’m always<br>curious about how systems work under the hood.<br>Enjoy playing Video games during my spare time
 
 **300 Days of Code** 
 
