@@ -4,14 +4,16 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 5/300 🔥  
-**Days Completed:** 4/300
-**Current Streak:** 4 days 🔥
+**Current Progress:** Day 6/300 🔥  
+**Days Completed:** 5/300
+**Current Streak:** 5 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
 - ✅ Day 3: File Renamer
 - ✅ Day 4: Weather API Fetcher
+- ✅ Day 5: Todo List CLI (Commander)
+- ⬜ Day 6: Random Quote Fetcher
 
 
 ## 🌐 Socials:
