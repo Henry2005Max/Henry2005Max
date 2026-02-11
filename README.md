@@ -1,19 +1,20 @@
-# 💫 About Me:
+#  About Me:
 Computer Science student interested in building real-world applications <br>and exploring how software<br>connects with hardware.<br><br>I enjoy working on projects that sit at the intersection of webs, apps, IoT, and robotics, and I’m always<br>curious about how systems work under the hood.<br>Enjoy playing Video games during my spare time
 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 6/300 🔥  
-**Days Completed:** 5/300
-**Current Streak:** 5 days 🔥
+**Current Progress:** Day 7/300 🔥  
+**Days Completed:** 6/300
+**Current Streak:** 6 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
 - ✅ Day 3: File Renamer
 - ✅ Day 4: Weather API Fetcher
 - ✅ Day 5: Todo List CLI (Commander)
-- ⬜ Day 6: Random Quote Fetcher
+- ✅ Day 6: Random Quote Fetcher
+- ⬜ Day 7: BMI Calculator
 
 
 ## 🌐 Socials:
