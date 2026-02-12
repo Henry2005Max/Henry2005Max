@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 7/300 🔥  
-**Days Completed:** 6/300
-**Current Streak:** 6 days 🔥
+**Current Progress:** Day 8/300 🔥  
+**Days Completed:** 7/300
+**Current Streak:** 7 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -14,7 +14,7 @@ Computer Science student interested in building real-world applications <br>and 
 - ✅ Day 4: Weather API Fetcher
 - ✅ Day 5: Todo List CLI (Commander)
 - ✅ Day 6: Random Quote Fetcher
-- ⬜ Day 7: BMI Calculator
+- ✅ Day 7: BMI Calculator
 
 
 ## 🌐 Socials:
