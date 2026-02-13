@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 8/300 🔥  
-**Days Completed:** 7/300
-**Current Streak:** 7 days 🔥
+**Current Progress:** Day 9/300 🔥  
+**Days Completed:** 8/300
+**Current Streak:** 8 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -15,6 +15,8 @@ Computer Science student interested in building real-world applications <br>and 
 - ✅ Day 5: Todo List CLI (Commander)
 - ✅ Day 6: Random Quote Fetcher
 - ✅ Day 7: BMI Calculator
+- ✅ Day 8: Currency Converter (NGN focus)
+- ⬜ Day 9: TypeScript Encryption
 
 
 ## 🌐 Socials:
