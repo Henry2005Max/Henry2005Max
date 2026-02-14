@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 9/300 🔥  
-**Days Completed:** 8/300
-**Current Streak:** 8 days 🔥
+**Current Progress:** Day 10/300 🔥  
+**Days Completed:** 9/300
+**Current Streak:** 9 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
