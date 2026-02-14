@@ -16,7 +16,8 @@ Computer Science student interested in building real-world applications <br>and 
 - ✅ Day 6: Random Quote Fetcher
 - ✅ Day 7: BMI Calculator
 - ✅ Day 8: Currency Converter (NGN focus)
-- ⬜ Day 9: TypeScript Encryption
+- ✅ Day 9: TypeScript Encryption (crypto)
+- ⬜ Day 10: Review - Jest Tests
 
 
 ## 🌐 Socials:
