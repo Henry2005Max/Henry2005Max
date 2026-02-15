@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 10/300 🔥  
-**Days Completed:** 9/300
-**Current Streak:** 9 days 🔥
+**Current Progress:** Day 11/300 🔥  
+**Days Completed:** 10/300
+**Current Streak:** 10 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -17,7 +17,8 @@ Computer Science student interested in building real-world applications <br>and 
 - ✅ Day 7: BMI Calculator
 - ✅ Day 8: Currency Converter (NGN focus)
 - ✅ Day 9: TypeScript Encryption (crypto)
-- ⬜ Day 10: Review - Jest Tests
+- ✅ Day 10: Review - Jest Tests for Calculator
+- ⬜ Day 11: Unit Converter
 
 
 ## 🌐 Socials:
