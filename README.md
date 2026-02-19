@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications <br>and 
 **300 Days of Code** 
 
 
-**Current Progress:** Day 14/300 🔥  
-**Days Completed:** 13/300
-**Current Streak:** 13 days 🔥
+**Current Progress:** Day 15/300 🔥  
+**Days Completed:** 14/300
+**Current Streak:** 14 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -21,7 +21,7 @@ Computer Science student interested in building real-world applications <br>and 
 - ✅ Day 11: Unit Converter
 - ✅ Day 12: Dice Roller
 - ✅ Day 13: Markdown Parser (marked library)
-- ⬜ Day 14: Email Validator
+- ✅ Day 14: Email Validator
 
 
 ## 🌐 Socials:
