@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 15/300 🔥  
-**Days Completed:** 14/300
-**Current Streak:** 14 days 🔥
+**Current Progress:** Day 16/300 🔥  
+**Days Completed:** 15/300
+**Current Streak:** 15 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -22,6 +22,7 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 12: Dice Roller
 - ✅ Day 13: Markdown Parser (marked library)
 - ✅ Day 14: Email Validator
+- ✅ Day 15: QR Code Generator
 
 
 ## 🌐 Socials:
