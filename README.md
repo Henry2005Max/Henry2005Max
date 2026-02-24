@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 19/300 🔥  
-**Days Completed:** 18/300
-**Current Streak:** 18 days 🔥
+**Current Progress:** Day 20/300 🔥  
+**Days Completed:** 19/300
+**Current Streak:** 19 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -26,6 +26,7 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 16: Joke API Fetcher
 - ✅ Day 17: Palindrome Checker
 - ✅ Day 18: FizzBuzz Generics
+- ✅ Day 19: Basic ChatBot
 
 
 ## 🌐 Socials:
