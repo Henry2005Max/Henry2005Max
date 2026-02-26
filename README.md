@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 21/300 🔥  
-**Days Completed:** 20/300
-**Current Streak:** 20 days 🔥
+**Current Progress:** Day 22/300 🔥  
+**Days Completed:** 21/300
+**Current Streak:** 21 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -28,6 +28,7 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 18: FizzBuzz Generics
 - ✅ Day 19: Basic ChatBot
 - ✅ Day 20: Recipe Randomizer
+- ✅ Day 21: Lodash Array
 
 
 
