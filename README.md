@@ -30,7 +30,7 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 20: Recipe Randomizer
 - ✅ Day 21: Lodash Array
 - ✅ Day 22: Node Fetch APIs
-👉 **300 Days of Code** → [`/300-Days-Of-Code`](./300-Days-Of-Code)
+👉 **300 Days of Code** → [`/Henry2005Max`](./300-Days-Of-Code)
 
 
 
