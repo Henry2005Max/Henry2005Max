@@ -30,7 +30,8 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 20: Recipe Randomizer
 - ✅ Day 21: Lodash Array
 - ✅ Day 22: Node Fetch APIs
-https://github.com/Henry2005Max/300-Days-Of-Code/tree/main/sprint-01-foundations
+- 
+**For More**: https://github.com/Henry2005Max/300-Days-Of-Code/tree/main/sprint-01-foundations
 
 
 
