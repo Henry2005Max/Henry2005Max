@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 28/300 🔥  
-**Days Completed:** 27/300
-**Current Streak:** 27 days 🔥
+**Current Progress:** Day 29/300 🔥  
+**Days Completed:** 28/300
+**Current Streak:** 28 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
