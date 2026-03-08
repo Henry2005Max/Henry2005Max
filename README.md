@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 31/300 🔥  
-**Days Completed:** 30/300
-**Current Streak:** 30 days 🔥
+**Current Progress:** Day 32/300 🔥  
+**Days Completed:** 31/300
+**Current Streak:** 31 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -30,10 +30,9 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 20: Recipe Randomizer
 - ✅ Day 21: Lodash Array
 - ✅ Day 22: Node Fetch APIs
-- 
 **For More**: https://github.com/Henry2005Max/300-Days-Of-Code/tree/main/sprint-01-foundations
 
-  sprint-01-foundations
+
 
 
 
