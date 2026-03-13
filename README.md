@@ -33,9 +33,11 @@ Computer Science student interested in building real-world applications, Artific
 ---
 - ✅ Day 32: sprint-02-web-basics /day-032-styled-landing-page/README.md 
 ## Live Demo
-
 https://henry-day032.netlify.app
 
+- ✅ Day 36:
+  ## Live Demo
+  https://day36-clocktimer.netlify.app  
 
 
 
