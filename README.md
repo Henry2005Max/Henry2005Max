@@ -4,9 +4,9 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 42/300 🔥  
-**Days Completed:** 41/300
-**Current Streak:** 41 days 🔥
+**Current Progress:** Day 43/300 🔥  
+**Days Completed:** 42/300
+**Current Streak:** 42 days 🔥
 
 - ✅ Day 1: TypeScript CLI Calculator
 - ✅ Day 2: Password Generator
@@ -37,7 +37,8 @@ https://henry-day032.netlify.app
 
 - ✅ Day 36:
   ## Live Demo
-  https://day36-clocktimer.netlify.app  
+  https://day36-clocktimer.netlify.app
+- ✅ Day 42 :https://day42-color-picker.netlify.app
 
 
 
