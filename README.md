@@ -4,31 +4,10 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code** 
 
 
-**Current Progress:** Day 51/300 🔥  
-**Days Completed:** 50/300
-**Current Streak:** 50 days 🔥
-- ✅ Day 1: TypeScript CLI Calculator
-- ✅ Day 2: Password Generator
-- ✅ Day 3: File Renamer
-- ✅ Day 4: Weather API Fetcher
-- ✅ Day 5: Todo List CLI (Commander)
-- ✅ Day 6: Random Quote Fetcher
-- ✅ Day 7: BMI Calculator
-- ✅ Day 8: Currency Converter (NGN focus)
-- ✅ Day 9: TypeScript Encryption (crypto)
-- ✅ Day 10: Review - Jest Tests for Calculator
-- ✅ Day 11: Unit Converter
-- ✅ Day 12: Dice Roller
-- ✅ Day 13: Markdown Parser (marked library)
-- ✅ Day 14: Email Validator
-- ✅ Day 15: QR Code Generator
-- ✅ Day 16: Joke API Fetcher
-- ✅ Day 17: Palindrome Checker
-- ✅ Day 18: FizzBuzz Generics
-- ✅ Day 19: Basic ChatBot
-- ✅ Day 20: Recipe Randomizer
-- ✅ Day 21: Lodash Array
-- ✅ Day 22: Node Fetch APIs
+**Current Progress:** Day 52/300 🔥  
+**Days Completed:** 51/300
+**Current Streak:** 51 days 🔥
+
   check https://github.com/Henry2005Max/300-Days-Of-Code for more
 ---
 - ✅ Day 32: sprint-02-web-basics /day-032-styled-landing-page/README.md https://henry-day032.netlify.app
