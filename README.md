@@ -4,15 +4,16 @@ Computer Science student interested in building real-world applications, Artific
 **300 Days of Code**  
 
 
-**Current Progress:** Day 56/300 🔥  
-**Days Completed:** 55/300
-**Current Streak:** 55 days 🔥
+**Current Progress:** Day 57/300 🔥  
+**Days Completed:** 56/300
+**Current Streak:** 56 days 🔥
 
   check https://github.com/Henry2005Max/300-Days-Of-Code for more
 ---
 - ✅ Day 32: sprint-02-web-basics /day-032-styled-landing-page/README.md https://henry-day032.netlify.app
 - ✅ Day 36: https://day36-clocktimer.netlify.app
-- ✅ Day 42 :https://day42-color-picker.netlify.app
+- ✅ Day 42: https://day42-color-picker.netlify.app
+- ✅ Day 56: https://56markdown-editor.netlify.app/
 
 
 
