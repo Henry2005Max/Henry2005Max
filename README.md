@@ -15,6 +15,7 @@ Computer Science student interested in building real-world applications, Artific
 - ✅ Day 42: https://day42-color-picker.netlify.app
 - ✅ Day 56: https://56markdown-editor.netlify.app/
 - ✅ Day 58: https://day58flashcard-app.netlify.app/
+- ✅ Day 60: https://day60review-dash.netlify.app/
 
 
 
