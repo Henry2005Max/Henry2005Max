@@ -30,7 +30,7 @@ check https://github.com/Henry2005Max/300-Days-Of-Code for more
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Henry2005Max&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+--
 [![](https://visitcount.itsvg.in/api?id=Henry2005Max&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
