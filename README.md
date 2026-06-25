@@ -7,7 +7,7 @@ Computer Science student interested in building real-world applications, Artific
 **Days Completed:** 122/300
 **Current Streak:** 122 days 🔥 
 
-check https://github.com/Henry2005Max/300-Days-Of-Code for more
+check https://github.com/Henry2005Max/300-Days-Of-Code for more 
 
 
 ## 🌐 Socials:
