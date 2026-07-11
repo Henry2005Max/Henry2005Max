@@ -3,9 +3,9 @@ Computer Science student interested in building real-world applications, Artific
 
 **300 Days of Code**
  
-**Current Progress:** Day 130/300 🔥  
-**Days Completed:** 129/300
-**Current Streak:** 129 days 🔥 
+**Current Progress:** Day 131/300 🔥  
+**Days Completed:** 130/300
+**Current Streak:** 130 days 🔥 
 
 check https://github.com/Henry2005Max/300-Days-Of-Code for more 
 
